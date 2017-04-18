@@ -1,7 +1,10 @@
-# test coverage for  [gulp-flatten (v0.3.1)](https://github.com/armed/gulp-flatten)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-flatten.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-flatten) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-flatten.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-flatten)
+# npmtest-gulp-flatten
+
+#### test coverage for  [gulp-flatten (v0.3.1)](https://github.com/armed/gulp-flatten)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-flatten.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-flatten) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-flatten.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-flatten)
+
 #### remove or replace relative path for files
 
-[![NPM](https://nodei.co/npm/gulp-flatten.png?downloads=true)](https://www.npmjs.com/package/gulp-flatten)
+[![NPM](https://nodei.co/npm/gulp-flatten.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-flatten)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-flatten/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-flatten/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-flatten/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-flatten/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-flatten/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-flatten/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-flatten/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-flatten/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-flatten%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-flatten/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-flatten/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-flatten%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-flatten/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-flatten/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-flatten/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-flatten/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Artem Medeusheyev",
-        "email": "artem.medeusheyev@gmail.com"
+        "name": "Artem Medeusheyev"
     },
     "bugs": {
         "url": "https://github.com/armed/gulp-flatten/issues"
@@ -66,13 +74,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "armed",
-            "email": "artem.medeusheyev@gmail.com"
+            "name": "armed"
         }
     ],
     "name": "gulp-flatten",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/armed/gulp-flatten.git"
